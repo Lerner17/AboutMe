@@ -21,8 +21,8 @@
 ### WEB Разработка
 
 * Адаптивная, Семантичная, Доступная вёрстка. `(HTML5, CSS3, ES6)`
-* Навык работы: `Node.js`, `Express.js`, `Django 2.0`, `React`, `Vue`, `NativeScript`, `Electon`, `JQuery`, `Nginx`
+* Навык работы: `Node.js`, `Express.js`, `Django 2.0`, `React`, `Vue`, `JQuery`, `Nginx`
 * Имеются навыки работы с графическими редакторами: `Adobe Photoshop`, `Sketch`
 * Имеются навыки работы с 3D редакторами: `Autodesk Maya`
 * Базовые навыки рисования дизайна сайтов, во `Flat` и `Material` стилях.
-
+* Не большой опыт: `Ruby`, `Ruby on rails`, `PHP`, `Go lang`, `NativeScript`, `Electon`
