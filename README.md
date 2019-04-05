@@ -1,9 +1,9 @@
 # Обо мне
 
 ## Контакты
-* [Telegram](https://t.me/lerner17)
+* [Telegram](https://t.me/lerner17) `[Предпочтительный]`
 * [lerner1796@gmail.com](mailto:lerner1796@gmail.com)
-* [VK.com (Ivan Polennikov)](https://vk.com/lerner224)
+* [VK.com (Ivan Polennikov)](https://vk.com/lerner224) `[deprecated]`
 
 ## Предпочтения:
 * **Система**: Mac OS, GNU/Linux(*nix)
