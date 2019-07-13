@@ -7,7 +7,7 @@
 
 ## Предпочтения:
 * **Система**: Mac OS, GNU/Linux(*nix)
-* **Язык**: JavaScript, Python
+* **Язык**: JavaScript, Python, C, Go lang, C++
 * **Фреймворки**: React, Vue (nuxt), Node.js, Django, Flask
 
 ## Имеющиеся навыки:
@@ -25,4 +25,4 @@
 * Имеются навыки работы с графическими редакторами: `Adobe Photoshop`, `Sketch`
 * Имеются навыки работы с 3D редакторами: `Autodesk Maya`
 * Базовые навыки рисования дизайна сайтов, во `Flat` и `Material` стилях.
-* Не большой опыт: `Ruby`, `Ruby on rails`, `PHP`, `Go lang`, `NativeScript`, `Electon`
+* Не большой опыт: `Ruby`, `Ruby on rails`, `PHP`, `NativeScript`, `Electon`
